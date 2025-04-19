@@ -2,7 +2,7 @@
 
 This project is a solution to the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) competition on Kaggle. The objective is to build predictive models that determine whether a passenger survived or not, based on features such as age, sex, class, and ticket fare.
 
-## 📘 Project Overview
+## Project Overview
 
 This notebook walks through the end-to-end pipeline of building several classification models using the Titanic dataset. It covers:
 
